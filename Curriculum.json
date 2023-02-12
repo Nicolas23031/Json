@@ -1,0 +1,27 @@
+{
+	"nome": "Nicolas",
+	"cognome": "Ventura",
+	"dataDiNascita": "23/03/2004",
+	"nazionalita": "italiana",
+	"telefono": "+39 333 333 3333",
+	"email": "e.mail@gmail.com",
+	"istruzione": "diploma ITIS informatico - ITIS Cannizzaro | 2023, Rho, Italia",
+  "esperienzaLavorativa": "Stage in azienda informatica - Phloema | 15/07/2022 - 25/07/2022, Milano, Italia ",
+  "competenzeLinguistiche": 
+  [
+    {
+      "linguaMadre": "italiano",
+      "altreLingue": 
+        "inglese - livello scuola superiore"
+    }
+  ],
+  "cometenzeDigitali": [
+    "utilizzo dei programmi di base - pacchetto Office e strumenti del computer",
+    "linguaggi di programmazione - Java, JavaScript, HTML, CSS, JSON, PHP",
+    "altri strumenti - Packet Tracer, XAMPP"
+  ],
+  "patenteDiGuida": [
+    "A2",
+    "B - automunito"
+    ]
+}
